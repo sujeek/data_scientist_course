@@ -1,4 +1,4 @@
-本资源提供gitchat上《Python数据科学家》课程实战的代码资源。
+# 本资源提供gitchat上《Python数据科学家》课程实战的代码资源。
 
 作者：Soyoger
 
