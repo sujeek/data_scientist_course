@@ -1,0 +1,9 @@
+{'desc': ['HTML 系列教程'], 'link': ['/h.asp'], 'title': ['HTML 系列教程']}
+{'desc': ['浏览器脚本教程'], 'link': ['/b.asp'], 'title': ['浏览器脚本']}
+{'desc': ['服务器脚本教程'], 'link': ['/s.asp'], 'title': ['服务器脚本']}
+{'desc': ['ASP.NET 教程'], 'link': ['/d.asp'], 'title': ['ASP.NET 教程']}
+{'desc': ['XML 系列教程'], 'link': ['/x.asp'], 'title': ['XML 系列教程']}
+{'desc': ['Web Services 系列教程'],
+ 'link': ['/ws.asp'],
+ 'title': ['Web Services 系列教程']}
+{'desc': ['建站手册'], 'link': ['/w.asp'], 'title': ['建站手册']}
